@@ -11,12 +11,12 @@ Take a look at the two repositories:
 
 And answer the following questions about them:
 
-  * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
-  * Who made the last commit to repository A?
-  * Who made the first commit to repository A?
-  * Who made the first and last commits to repository B?
-  * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
-  * 🤔 Which file in each project has had the most activity?
+  * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better? these sites are internet hosting providers for gits and version controls. 
+  * Who made the last commit to repository A? Matthew Roberts
+  * Who made the first commit to repository A? Matthew Roberts
+  * Who made the first and last commits to repository B? dave pearce
+  * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened? no, the last action was 4 days ago
+  * 🤔 Which file in each project has had the most activity? - 
 
 # Task 2
 
